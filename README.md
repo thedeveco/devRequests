@@ -16,7 +16,7 @@ You can open an issue for:
 
 ---
 
-## 📝 How to Submit a Request
+## How to Submit a Request
 
 1. **Go to the [Issues tab](../../issues).**
 2. Click **“New Issue”**.
@@ -49,6 +49,6 @@ You can open an issue for:
 ---
 
 ## Explore the devEco
-- [LinkTree](https://linktr.ee/thedeveco))  
+- [LinkTree](https://linktr.ee/thedeveco)  
 
 Thank you for helping us grow and improve the devEco community 💙
