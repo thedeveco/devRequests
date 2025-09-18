@@ -49,6 +49,6 @@ You can open an issue for:
 ---
 
 ## Explore the devEco
-- [LinkTree]([htt](https://linktr.ee/thedeveco))  
+- [LinkTree](https://linktr.ee/thedeveco))  
 
 Thank you for helping us grow and improve the devEco community 💙
